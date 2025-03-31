@@ -6,8 +6,7 @@ This repository contains solutions to various data science, machine learning, an
 1. [Iris Flower Classification](#iris-flower-classification)
 2. [Unemployment Analysis with Python](#unemployment-analysis-with-python)
 3. [Car Price Prediction with Machine Learning](#car-price-prediction-with-machine-learning)
-4. [Personal Portfolio Website](#personal-portfolio-website)
-5. [Sales Prediction using Python](#sales-prediction-using-python)
+4. [Sales Prediction using Python](#sales-prediction-using-python)
 
 ## 1. Iris Flower Classification
 The Iris dataset consists of three species of flowers (*setosa*, *versicolor*, and *virginica*), classified based on their sepal and petal measurements. This project involves training a machine learning model to classify iris flowers based on their measurements.
@@ -66,22 +65,6 @@ This project predicts the price of a car based on factors such as brand, feature
 2. Train a regression model
 3. Evaluate model performance
 4. Make predictions
-
----
-
-## 4. Personal Portfolio Website
-A personal portfolio website was built using HTML, CSS, and JavaScript to showcase skills, projects, and a resume.
-
-### Technologies Used
-- HTML (structure)
-- CSS (styling)
-- JavaScript (interactivity)
-
-### Features
-- Responsive design
-- Project showcase section
-- Resume download option
-- Contact form
 
 ---
 
